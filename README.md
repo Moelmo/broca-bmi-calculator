@@ -33,8 +33,9 @@ Setelah dependensi terinstal, kamu bisa menjalankan aplikasi dengan perintah ber
 Setelah aplikasi berjalan, buka browser dan akses di http://localhost:8501.
 
 ## 🌐 Coba Demo Online
-Jika kamu ingin mencoba aplikasi ini secara online, kamu bisa mengunjungi demo berikut yang saya hosting menggunakan streamlit cloud:
-- 
+Jika kamu ingin mencoba aplikasi ini secara online, kamu bisa mengunjungi demo berikut yang saya hosting menggunakan streamlit cloud
+[Cek Berat Badanmu Sekarang]()
+
 
 ## 📄 Lisensi
 Aplikasi ini dilisensikan di bawah MIT License.
