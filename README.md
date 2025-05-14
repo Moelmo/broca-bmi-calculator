@@ -11,13 +11,13 @@ Dibuat dengan **Python** dan **Streamlit**, aplikasi ini cepat, ringan, dan bisa
 - ✅ Bisa dijalankan lokal atau online via Streamlit Cloud
 
 ## 🛠️ Teknologi
-- Python 3.x
+- Python
 - Streamlit
 
 ## 💡 Cara Menjalankan (Secara Lokal)
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/broca-bmi-calculator.git
+   git clone https://github.com/Moelmo/broca-bmi-calculator.git
    cd broca-bmi-calculator
    
 2. Install dependensi:
@@ -34,7 +34,7 @@ Setelah aplikasi berjalan, buka browser dan akses di http://localhost:8501.
 
 ## 🌐 Coba Demo Online
 Jika kamu ingin mencoba aplikasi ini secara online, kamu bisa mengunjungi demo berikut yang saya hosting menggunakan streamlit cloud
-[Cek Berat Badanmu Sekarang]()
+[Cek Berat Badanmu Sekarang](https://fitcheck.streamlit.app/)
 
 
 ## 📄 Lisensi
