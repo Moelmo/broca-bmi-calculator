@@ -1,45 +1,57 @@
 # 🧮 Cek Berat Badan Ideal – Broca & BMI Calculator
 
-Ingin tahu apakah berat badanmu sudah ideal?  
-Aplikasi ini membantumu menghitung berat badan ideal menggunakan dua metode populer: **Rumus Broca** dan **BMI (Body Mass Index)**.  
-Dibuat dengan **Python** dan **Streamlit**, aplikasi ini cepat, ringan, dan bisa diakses langsung lewat browser!
+Aplikasi web untuk menghitung berat badan ideal menggunakan dua metode populer, yaitu **Rumus Broca** dan **BMI (Body Mass Index)** lengkap dengan kategori hasilnya. Dibuat dengan Python dan Streamlit, ringan dan bisa diakses langsung lewat browser.
 
 ## 🚀 Fitur Utama
-- ✅ Perhitungan berat badan ideal dengan **Rumus Broca**
-- ✅ Kalkulasi **BMI** lengkap dengan hasil kategori (Kurus, Normal, Gemuk, Obesitas)
-- ✅ Tampilan antarmuka sederhana, cocok untuk semua kalangan
-- ✅ Bisa dijalankan lokal atau online via Streamlit Cloud
 
-## 🛠️ Teknologi
+- Perhitungan berat badan ideal dengan **Rumus Broca**
+- Kalkulasi **BMI** lengkap dengan kategori (Kurus, Normal, Gemuk, Obesitas)
+- Antarmuka sederhana, cocok untuk semua kalangan
+- Bisa dijalankan lokal maupun online lewat Streamlit Cloud
+
+## 🛠️ Tech Stack
+
 - Python
 - Streamlit
 
-## 💡 Cara Menjalankan (Secara Lokal)
-1. Clone repositori ini:
+## 📸 Screenshot
+
+<p align="center">
+  <img src="asset/Tampilan%20Utama.png" alt="Tampilan Utama" width="480" height="270">
+  <img src="asset/Hasil%20Hitung.png" alt="Hasil Perhitungan" width="480" height="270">
+</p>
+
+## 💡 Cara Menjalankan
+
+1. Pastikan Python sudah terpasang di komputermu.
+2. Clone repositori ini:
+
    ```bash
    git clone https://github.com/Moelmo/broca-bmi-calculator.git
    cd broca-bmi-calculator
-   
-2. Install dependensi:
-Sebelum menjalankan aplikasi, pastikan kamu sudah menginstall Python. Setelah itu, install semua dependensi yang diperlukan:
-    ```bash
-    pip install -r requirements.txt
-    
-3. Jalankan aplikasi:
-Setelah dependensi terinstal, kamu bisa menjalankan aplikasi dengan perintah berikut:
+   ```
+
+3. Install dependensi:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Jalankan aplikasi:
+
    ```bash
    streamlit run app.py
-4. Akses aplikasi melalui browser:
-Setelah aplikasi berjalan, buka browser dan akses di http://localhost:8501.
+   ```
 
-## 🌐 Coba Demo Online
-Jika kamu ingin mencoba aplikasi ini secara online, kamu bisa mengunjungi demo berikut yang saya hosting menggunakan streamlit cloud
-[Cek Berat Badanmu Sekarang](https://fitcheck.streamlit.app/)
+5. Buka browser dan akses `http://localhost:8501`.
+
+## 🌐 Demo Live
+
+Jika kamu ingin mencoba aplikasi ini secara online, kamu bisa mengunjungi demo berikut yang saya hosting menggunakan streamlit cloud [Coba aplikasi di sini](https://fitcheck.streamlit.app/)
 
 
 ## 📄 Lisensi
-Aplikasi ini dilisensikan di bawah MIT License.
-Bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut untuk kebutuhan pribadi maupun komersial.
-Cukup cantumkan kredit jika menggunakan sebagian atau seluruh kode ini. 😊
 
-jangan lupa kasih bintang jika anda suka 😁.
+Aplikasi ini dilisensikan di bawah **MIT License**. Bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut untuk kebutuhan pribadi maupun komersial. Cukup cantumkan kredit jika menggunakan sebagian atau seluruh kode ini. 😊
+
+⭐ Jangan lupa beri bintang jika kamu suka proyek ini!

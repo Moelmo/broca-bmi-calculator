@@ -209,7 +209,7 @@ st.markdown("""
         <a href="https://www.tiktok.com" target="https://tiktok.com/@moelmo57" style="text-decoration: none;">
             <img src="https://cdn-icons-png.flaticon.com/128/4782/4782345.png" width="35" height="35" alt="TikTok" />
         </a>
-        <a href="https://www.instagram.com" target="https://instagram.com/moelmo.57" style="text-decoration: none;">
+        <a href="https://www.instagram.com" target="https://instagram.com/taufiqimanp" style="text-decoration: none;">
             <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="35" height="35" alt="Instagram" />
         </a>
     </div>
